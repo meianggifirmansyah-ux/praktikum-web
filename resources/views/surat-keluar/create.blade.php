@@ -1,5 +1,5 @@
 
-@extends('layout.app_blade')
+@extends('layouts.app')
 
 @section('title', 'Tambah Surat Keluar')
 @section('heading', 'Tambah Surat Keluar')
